@@ -1,0 +1,6 @@
+C:\Users\sequor\source\repos\Sequor.WebApi\Sequor.Domain\bin\Debug\Sequor.Domain.dll
+C:\Users\sequor\source\repos\Sequor.WebApi\Sequor.Domain\bin\Debug\Sequor.Domain.pdb
+C:\Users\sequor\source\repos\Sequor.WebApi\Sequor.Domain\obj\Debug\Sequor.Domain.csprojAssemblyReference.cache
+C:\Users\sequor\source\repos\Sequor.WebApi\Sequor.Domain\obj\Debug\Sequor.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sequor\source\repos\Sequor.WebApi\Sequor.Domain\obj\Debug\Sequor.Domain.dll
+C:\Users\sequor\source\repos\Sequor.WebApi\Sequor.Domain\obj\Debug\Sequor.Domain.pdb
