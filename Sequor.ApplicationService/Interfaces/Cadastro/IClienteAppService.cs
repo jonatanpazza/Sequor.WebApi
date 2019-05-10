@@ -9,6 +9,6 @@ namespace Sequor.ApplicationService.Interfaces.Cadastro
 {
     public interface IClienteAppService : IAppServiceBase<Cliente>
     {
-        IEnumerable<Cliente> ObterClientesEspeciais();
+        //IEnumerable<Cliente> ObterClientesEspeciais();
     }
 }

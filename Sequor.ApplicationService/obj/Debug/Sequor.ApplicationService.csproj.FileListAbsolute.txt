@@ -7,3 +7,12 @@ C:\Users\sequor\source\repos\Sequor.WebApi\Sequor.ApplicationService\obj\Debug\S
 C:\Users\sequor\source\repos\Sequor.WebApi\Sequor.ApplicationService\obj\Debug\Sequor.ApplicationService.csproj.CopyComplete
 C:\Users\sequor\source\repos\Sequor.WebApi\Sequor.ApplicationService\obj\Debug\Sequor.ApplicationService.dll
 C:\Users\sequor\source\repos\Sequor.WebApi\Sequor.ApplicationService\obj\Debug\Sequor.ApplicationService.pdb
+C:\GitHub\Sequor.WebApi\Sequor.ApplicationService\bin\Debug\Sequor.ApplicationService.dll
+C:\GitHub\Sequor.WebApi\Sequor.ApplicationService\bin\Debug\Sequor.ApplicationService.pdb
+C:\GitHub\Sequor.WebApi\Sequor.ApplicationService\bin\Debug\Sequor.Domain.dll
+C:\GitHub\Sequor.WebApi\Sequor.ApplicationService\bin\Debug\Sequor.Domain.pdb
+C:\GitHub\Sequor.WebApi\Sequor.ApplicationService\obj\Debug\Sequor.ApplicationService.csprojAssemblyReference.cache
+C:\GitHub\Sequor.WebApi\Sequor.ApplicationService\obj\Debug\Sequor.ApplicationService.csproj.CoreCompileInputs.cache
+C:\GitHub\Sequor.WebApi\Sequor.ApplicationService\obj\Debug\Sequor.ApplicationService.csproj.CopyComplete
+C:\GitHub\Sequor.WebApi\Sequor.ApplicationService\obj\Debug\Sequor.ApplicationService.dll
+C:\GitHub\Sequor.WebApi\Sequor.ApplicationService\obj\Debug\Sequor.ApplicationService.pdb

@@ -32,6 +32,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -44,10 +45,11 @@
     <Compile Include="Entities\Cliente.cs" />
     <Compile Include="Interfaces\Repositories\Cadastro\IClienteRepository.cs" />
     <Compile Include="Interfaces\Repositories\IRepositoryBase.cs" />
-    <Compile Include="Interfaces\Services\Cadastro\ClienteService.cs" />
+    <Compile Include="Interfaces\Services\Cadastro\IClienteService.cs" />
     <Compile Include="Interfaces\IServiceBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ServiceBase.cs" />
+    <Compile Include="Services\Cadastro\ClienteService.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Interfaces\Repositories\Movimentacao\" />
@@ -56,7 +58,6 @@
     <Folder Include="Interfaces\Services\Movimentacao\" />
     <Folder Include="Interfaces\Services\Picking\" />
     <Folder Include="Interfaces\Services\Recebimento\" />
-    <Folder Include="Services\Cadastro\" />
     <Folder Include="Services\Movimentacao\" />
     <Folder Include="Services\Picking\" />
     <Folder Include="Services\Recebimento\" />

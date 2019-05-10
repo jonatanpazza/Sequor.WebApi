@@ -12,3 +12,17 @@ C:\Users\sequor\source\repos\Sequor.WebApi\Sequor.Infrastructure\bin\Debug\Entit
 C:\Users\sequor\source\repos\Sequor.WebApi\Sequor.Infrastructure\obj\Debug\Sequor.Infrastructure.csproj.CopyComplete
 C:\Users\sequor\source\repos\Sequor.WebApi\Sequor.Infrastructure\obj\Debug\Sequor.Infrastructure.dll
 C:\Users\sequor\source\repos\Sequor.WebApi\Sequor.Infrastructure\obj\Debug\Sequor.Infrastructure.pdb
+C:\GitHub\Sequor.WebApi\Sequor.Infrastructure\bin\Debug\Sequor.Infrastructure.dll.config
+C:\GitHub\Sequor.WebApi\Sequor.Infrastructure\bin\Debug\Sequor.Infrastructure.dll
+C:\GitHub\Sequor.WebApi\Sequor.Infrastructure\bin\Debug\Sequor.Infrastructure.pdb
+C:\GitHub\Sequor.WebApi\Sequor.Infrastructure\bin\Debug\EntityFramework.dll
+C:\GitHub\Sequor.WebApi\Sequor.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHub\Sequor.WebApi\Sequor.Infrastructure\bin\Debug\Sequor.Domain.dll
+C:\GitHub\Sequor.WebApi\Sequor.Infrastructure\bin\Debug\Sequor.Domain.pdb
+C:\GitHub\Sequor.WebApi\Sequor.Infrastructure\bin\Debug\EntityFramework.xml
+C:\GitHub\Sequor.WebApi\Sequor.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitHub\Sequor.WebApi\Sequor.Infrastructure\obj\Debug\Sequor.Infrastructure.csprojAssemblyReference.cache
+C:\GitHub\Sequor.WebApi\Sequor.Infrastructure\obj\Debug\Sequor.Infrastructure.csproj.CoreCompileInputs.cache
+C:\GitHub\Sequor.WebApi\Sequor.Infrastructure\obj\Debug\Sequor.Infrastructure.csproj.CopyComplete
+C:\GitHub\Sequor.WebApi\Sequor.Infrastructure\obj\Debug\Sequor.Infrastructure.dll
+C:\GitHub\Sequor.WebApi\Sequor.Infrastructure\obj\Debug\Sequor.Infrastructure.pdb

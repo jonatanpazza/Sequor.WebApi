@@ -20,9 +20,9 @@ namespace Sequor.ApplicationService.Cadastro
             _clienteService = clienteService;
         }
 
-        public IEnumerable<Cliente> ObterClientesEspeciais()
-        {
-            return _clienteService.ObterClientesEspeciais(_clienteService.GetAll());
-        }
+        //public IEnumerable<Cliente> ObterClientesEspeciais()
+        //{
+        //    return _clienteService.ObterClientesEspeciais(_clienteService.GetAll());
+        //}
     }
 }
