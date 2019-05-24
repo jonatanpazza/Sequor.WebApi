@@ -351,6 +351,8 @@
     <Compile Include="Services\Cadastro\ClienteService.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Entities\EntitiesMES\" />
+    <Folder Include="Enumerables\EnumerableMES\" />
     <Folder Include="Interfaces\InterfacesLES\" />
     <Folder Include="Interfaces\InterfacesMES\" />
     <Folder Include="Interfaces\Repositories\Movimentacao\" />

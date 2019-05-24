@@ -49,10 +49,6 @@ C:\Users\sequor\source\repos\Sequor.WebApi\Sequor.WebMvc.Tests\bin\Debug\Ninject
 C:\Users\sequor\source\repos\Sequor.WebApi\Sequor.WebMvc.Tests\bin\Debug\Ninject.Web.Common.WebHost.xml
 C:\Users\sequor\source\repos\Sequor.WebApi\Sequor.WebMvc.Tests\bin\Debug\Sequor.Infrastructure.pdb
 C:\Users\sequor\source\repos\Sequor.WebApi\Sequor.WebMvc.Tests\bin\Debug\Sequor.Infrastructure.dll.config
-C:\GitHub\Sequor.WebApi\Sequor.WebMvc.Tests\obj\Debug\Sequor.WebMvc.Tests.csprojAssemblyReference.cache
-C:\GitHub\Sequor.WebApi\Sequor.WebMvc.Tests\obj\Debug\Sequor.WebMvc.Tests.csproj.CoreCompileInputs.cache
-C:\GitHub\Sequor.WebApi\Sequor.WebMvc.Tests\obj\Debug\Sequor.WebMvc.Tests.dll
-C:\GitHub\Sequor.WebApi\Sequor.WebMvc.Tests\obj\Debug\Sequor.WebMvc.Tests.pdb
 C:\GitHub\Sequor.WebApi\Sequor.WebMvc.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\GitHub\Sequor.WebApi\Sequor.WebMvc.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\GitHub\Sequor.WebApi\Sequor.WebMvc.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
@@ -102,4 +98,8 @@ C:\GitHub\Sequor.WebApi\Sequor.WebMvc.Tests\bin\Debug\Ninject.xml
 C:\GitHub\Sequor.WebApi\Sequor.WebMvc.Tests\bin\Debug\Ninject.Web.Common.WebHost.xml
 C:\GitHub\Sequor.WebApi\Sequor.WebMvc.Tests\bin\Debug\Sequor.Infrastructure.pdb
 C:\GitHub\Sequor.WebApi\Sequor.WebMvc.Tests\bin\Debug\Sequor.Infrastructure.dll.config
+C:\GitHub\Sequor.WebApi\Sequor.WebMvc.Tests\obj\Debug\Sequor.WebMvc.Tests.csprojAssemblyReference.cache
+C:\GitHub\Sequor.WebApi\Sequor.WebMvc.Tests\obj\Debug\Sequor.WebMvc.Tests.csproj.CoreCompileInputs.cache
 C:\GitHub\Sequor.WebApi\Sequor.WebMvc.Tests\obj\Debug\Sequor.WebMvc.Tests.csproj.CopyComplete
+C:\GitHub\Sequor.WebApi\Sequor.WebMvc.Tests\obj\Debug\Sequor.WebMvc.Tests.dll
+C:\GitHub\Sequor.WebApi\Sequor.WebMvc.Tests\obj\Debug\Sequor.WebMvc.Tests.pdb

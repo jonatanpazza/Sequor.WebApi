@@ -9,4 +9,3 @@ C:\GitHub\Sequor.WebApi\Sequor.Domain\bin\Debug\Sequor.Domain.pdb
 C:\GitHub\Sequor.WebApi\Sequor.Domain\obj\Debug\Sequor.Domain.csproj.CoreCompileInputs.cache
 C:\GitHub\Sequor.WebApi\Sequor.Domain\obj\Debug\Sequor.Domain.dll
 C:\GitHub\Sequor.WebApi\Sequor.Domain\obj\Debug\Sequor.Domain.pdb
-C:\GitHub\Sequor.WebApi\Sequor.Domain\obj\Debug\Sequor.Domain.csprojAssemblyReference.cache

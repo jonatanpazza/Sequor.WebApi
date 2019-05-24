@@ -165,7 +165,6 @@ C:\GitHub\Sequor.WebApi\Sequor.WebApi\bin\Antlr3.Runtime.pdb
 C:\GitHub\Sequor.WebApi\Sequor.WebApi\bin\System.Diagnostics.DiagnosticSource.xml
 C:\GitHub\Sequor.WebApi\Sequor.WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
 C:\GitHub\Sequor.WebApi\Sequor.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\GitHub\Sequor.WebApi\Sequor.WebApi\obj\Debug\Sequor.WebApi.csprojAssemblyReference.cache
 C:\GitHub\Sequor.WebApi\Sequor.WebApi\obj\Debug\Sequor.WebApi.csproj.CoreCompileInputs.cache
 C:\GitHub\Sequor.WebApi\Sequor.WebApi\obj\Debug\Sequor.WebApi.csproj.CopyComplete
 C:\GitHub\Sequor.WebApi\Sequor.WebApi\obj\Debug\Sequor.WebApi.dll
