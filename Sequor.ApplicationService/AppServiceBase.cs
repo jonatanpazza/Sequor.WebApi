@@ -1,4 +1,4 @@
-﻿using Sequor.ApplicationService.Interfaces;
+﻿using Sequor.ApplicationService.LES.Interfaces;
 using Sequor.Domain.Interfaces;
 using System;
 using System.Collections.Generic;

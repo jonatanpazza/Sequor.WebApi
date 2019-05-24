@@ -1,4 +1,4 @@
-﻿using Sequor.ApplicationService.Interfaces.Cadastro;
+﻿using Sequor.ApplicationService.LES.Interfaces.Cadastro;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,6 +14,10 @@ namespace Sequor.WebMvc.Controllers
         public HomeController(IClienteAppService clienteApp)
         {
             _clienteApp = clienteApp;
+        }
+
+        public HomeController()
+        {
         }
 
         public ActionResult Index()

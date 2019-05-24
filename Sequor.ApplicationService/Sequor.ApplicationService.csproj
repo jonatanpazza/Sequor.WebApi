@@ -43,14 +43,18 @@
   <ItemGroup>
     <Compile Include="AppServiceBase.cs" />
     <Compile Include="Cadastro\ClienteAppService.cs" />
-    <Compile Include="Interfaces\Cadastro\IClienteAppService.cs" />
-    <Compile Include="Interfaces\IAppServiceBase.cs" />
+    <Compile Include="LES\Interfaces\Cadastro\IClienteAppService.cs" />
+    <Compile Include="LES\Interfaces\IAppServiceBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Movimentacao\" />
-    <Folder Include="Picking\" />
-    <Folder Include="Recebimento\" />
+    <Folder Include="LES\Interfaces\Movimentacao\" />
+    <Folder Include="LES\Interfaces\Picking\" />
+    <Folder Include="LES\Interfaces\Recebimento\" />
+    <Folder Include="LES\Movimentacao\" />
+    <Folder Include="LES\Picking\" />
+    <Folder Include="LES\Recebimento\" />
+    <Folder Include="MES\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Sequor.Domain\Sequor.Domain.csproj">

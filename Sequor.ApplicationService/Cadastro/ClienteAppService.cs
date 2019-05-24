@@ -1,5 +1,4 @@
-﻿using Sequor.ApplicationService.Interfaces;
-using Sequor.ApplicationService.Interfaces.Cadastro;
+﻿using Sequor.ApplicationService.LES.Interfaces.Cadastro;
 using Sequor.Domain.Entities;
 using Sequor.Domain.Interfaces.Services.Cadastro;
 using System;

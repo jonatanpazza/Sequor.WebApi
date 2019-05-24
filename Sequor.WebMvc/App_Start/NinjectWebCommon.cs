@@ -1,5 +1,4 @@
 ﻿using Sequor.ApplicationService;
-using Sequor.ApplicationService.Interfaces;
 using Sequor.Domain.Interfaces.Repositories;
 using Sequor.Domain.Interfaces.Services;
 using Sequor.Domain.Services;
@@ -19,7 +18,8 @@ namespace Sequor.WebMvc.App_Start
     using Ninject.Web.Common;
     using Ninject.Web.Common.WebHost;
     using Sequor.ApplicationService.Cadastro;
-    using Sequor.ApplicationService.Interfaces.Cadastro;
+    using Sequor.ApplicationService.LES.Interfaces;
+    using Sequor.ApplicationService.LES.Interfaces.Cadastro;
     using Sequor.Domain;
     using Sequor.Domain.Interfaces;
     using Sequor.Domain.Interfaces.Repositories.Cadastro;
