@@ -3,6 +3,8 @@ using Sequor.Domain.Interfaces.Repositories;
 using Sequor.Domain.Interfaces.Services;
 using Sequor.Domain.Services;
 using Sequor.Infrastructure.Repositories;
+using Sequor.Domain.Services.Cadastro;
+using Sequor.Domain.Interfaces.Services.Cadastro;
 
 [assembly: WebActivator.PreApplicationStartMethod(typeof(Sequor.WebMvc.App_Start.NinjectWebCommon), "Start")]
 [assembly: WebActivator.ApplicationShutdownMethodAttribute(typeof(Sequor.WebMvc.App_Start.NinjectWebCommon), "Stop")]
@@ -23,6 +25,7 @@ namespace Sequor.WebMvc.App_Start
     using Sequor.Domain;
     using Sequor.Domain.Interfaces;
     using Sequor.Domain.Interfaces.Repositories.Cadastro;
+    using Sequor.Domain.Interfaces.Repositories.Recebimento;
     using Sequor.Domain.Interfaces.Services.Cadastro;
     using Sequor.Domain.Services.Cadastro;
     using Sequor.Infrastructure;
@@ -78,16 +81,29 @@ namespace Sequor.WebMvc.App_Start
         private static void RegisterServices(IKernel kernel)
         {
             kernel.Bind(typeof(IAppServiceBase<>)).To(typeof(AppServiceBase<>));
-            kernel.Bind<IClienteAppService>().To<ClienteAppService>();
-            //kernel.Bind<IProdutoAppService>().To<ProdutoAppService>();
-
             kernel.Bind(typeof(IServiceBase<>)).To(typeof(ServiceBase<>));
-            kernel.Bind<IClienteService>().To<ClienteService>();
-            //kernel.Bind<IProdutoService>().To<ProdutoService>();
-
             kernel.Bind(typeof(IRepositoryBase<>)).To(typeof(RepositoryBase<>));
+
+            kernel.Bind<IClienteAppService>().To<ClienteAppService>();
+            kernel.Bind<IWSQOLRECEBIMENTOFOLHAROSTOAppService>().To<WSQOLRECEBIMENTOFOLHAROSTOAppService>();
+                        
+            kernel.Bind<IClienteService>().To<ClienteService>();
+            kernel.Bind<IWSQOLRECEBIMENTOFOLHAROSTOService>().To<WSQOLRECEBIMENTOFOLHAROSTOService>();
+                        
             kernel.Bind<IClienteRepository>().To<ClienteRepository>();
-            //kernel.Bind<IProdutoRepository>().To<ProdutoRepository>();
+            kernel.Bind<IWSQOLRECEBIMENTOFOLHAROSTORepository>().To<WSQOLRECEBIMENTOFOLHAROSTORepository>();
+
+            //kernel.Bind(typeof(IAppServiceBase<>)).To(typeof(AppServiceBase<>));
+            //kernel.Bind<IClienteAppService>().To<ClienteAppService>();
+            ////kernel.Bind<IProdutoAppService>().To<ProdutoAppService>();
+
+            //kernel.Bind(typeof(IServiceBase<>)).To(typeof(ServiceBase<>));
+            //kernel.Bind<IClienteService>().To<ClienteService>();
+            ////kernel.Bind<IProdutoService>().To<ProdutoService>();
+
+            //kernel.Bind(typeof(IRepositoryBase<>)).To(typeof(RepositoryBase<>));
+            //kernel.Bind<IClienteRepository>().To<ClienteRepository>();
+            ////kernel.Bind<IProdutoRepository>().To<ProdutoRepository>();
         }
     }
 }

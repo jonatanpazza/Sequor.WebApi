@@ -11,5 +11,6 @@ namespace Sequor.Domain.Interfaces.Repositories.Recebimento
 {
     public interface IWSQOLRECEBIMENTOFOLHAROSTORepository : IRepositoryBase<WSQOLRECEBIMENTOFOLHAROSTO>
     {
+        IEnumerable<WSQOLRECEBIMENTOFOLHAROSTO> GetFolhaRostoInspecionadas();
     }
 }

@@ -12,7 +12,7 @@ namespace Sequor.Domain.Interfaces.Services.Cadastro
 {
     public interface IWSQOLRECEBIMENTOFOLHAROSTOService : IServiceBase<WSQOLRECEBIMENTOFOLHAROSTO>
     {
-        //IEnumerable<Cliente> ObterClientesEspeciais(IEnumerable<Cliente> clientes);
+        IEnumerable<WSQOLRECEBIMENTOFOLHAROSTO> GetFolhaRostoInspecionadas();
 
         //IEnumerable<Cliente> GetFolhaRosto_Para_Conferir(IEnumerable<Cliente> clientes);
 

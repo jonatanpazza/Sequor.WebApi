@@ -339,7 +339,8 @@
     <Compile Include="Enumerables\EnumerablesLES\STATUS_FOLHA_ROSTO.cs" />
     <Compile Include="Interfaces\Repositories\Recebimento\IWSQOLRECEBIMENTOFOLHAROSTORepository.cs" />
     <Compile Include="Interfaces\Services\Cadastro\IWSQOLRECEBIMENTOFOLHAROSTOService.cs" />
-    <Compile Include="Services\Recebimento\RecebimentoFolhaRosto.cs" />
+    <Compile Include="Services\Cadastro\WSQOLRECEBIMENTOFOLHAROSTOService.cs" />
+    <Compile Include="Services\Recebimento\RecebimentoFolhaRostoService.cs" />
     <Compile Include="Services\Recebimento\RecebimentoVolumes.cs" />
     <Compile Include="ViewModel\RecebimentoFolhaRostoViewModel.cs" />
     <Compile Include="Interfaces\Repositories\Cadastro\IClienteRepository.cs" />
@@ -352,7 +353,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Entities\EntitiesMES\" />
-    <Folder Include="Enumerables\EnumerableMES\" />
+    <Folder Include="Enumerables\EnumerablesMES\" />
     <Folder Include="Interfaces\InterfacesLES\" />
     <Folder Include="Interfaces\InterfacesMES\" />
     <Folder Include="Interfaces\Repositories\Movimentacao\" />

@@ -42,7 +42,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AppServiceBase.cs" />
+    <Compile Include="Cadastro\WSQOLRECEBIMENTOFOLHAROSTOAppService.cs" />
     <Compile Include="Cadastro\ClienteAppService.cs" />
+    <Compile Include="LES\Interfaces\Cadastro\IWSQOLRECEBIMENTOFOLHAROSTOAppService.cs" />
     <Compile Include="LES\Interfaces\Cadastro\IClienteAppService.cs" />
     <Compile Include="LES\Interfaces\IAppServiceBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
